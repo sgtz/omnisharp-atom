@@ -15,3 +15,5 @@
   'ctrl-alt-b': 'atom-sharper:show-build'
   'ctrl-F12': 'atom-sharper:go-to-definition'
   'shift-F12': 'atom-sharper:find-usages'
+  'ctrl-shift-u': 'atom-sharper:fix-usings'
+  'ctrl-alt-f': 'atom-sharper:code-format'
